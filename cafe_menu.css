@@ -1,0 +1,62 @@
+.menu {margin-left: auto; 
+       margin-right: auto;
+       background-color: burlywood;
+       width: 80%;
+       max-width: 500px;
+       padding: 20px;
+       }
+    
+hr {height: 3px;
+    background-color: maroon;
+    border-color: maroon;}
+
+h1, h2, p {text-align: center;}
+
+h1 {font-size: 40px;
+    margin-top: 0px;
+    margin-bottom: 10px;}
+
+h2 {font-size: 30px;}
+   
+body {background-image: url(https://img.freepik.com/free-vector/coffee-pattern-design_1085-160.jpg?t=st=1738331789~exp=1738335389~hmac=77d8b120344fc042096a15bef4f2abe5f30b40289e6959237a46a22317a64633&w=740);
+      font-family: Verdana, 'Geneva', Tahoma, sans-serif;
+      padding: 20px;
+      font-size: 18px;}
+
+.sabor, .snack {text-align: left;
+                width: 75%;}
+
+.preco {text-align: right;
+        width: 25%;}
+
+.item p {display: inline-block;
+         margin-top: 5px;
+         margin-bottom: 5px;}
+
+.established {font-style: italic;}
+
+.bottom-line{margin-top: 25px;}
+
+.cafezinho, .tortinha {background-color: burlywood;
+      max-width: 50px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: -20px;}
+
+ 
+
+/* footer*/
+
+footer{font-size: 14px;}
+
+.a1 {color: darkred;}
+
+.a2 {color:black;}
+
+a:hover {color: rgb(171, 131, 0);}
+
+a:active {color: whitesmoke;}
+
+.endereco {margin-bottom: 5px;}
+
